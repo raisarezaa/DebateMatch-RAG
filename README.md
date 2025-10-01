@@ -42,7 +42,3 @@ HEAD
     "Text": "To $15 for an insulin shot as opposed to $400. No senior has to pay more than $200 for any drug, all the drugs, beginning next year."
   }
 ]
-=======
-# DebateMatch-RAG
-Retriever) using FAISS + sentence embeddings
->>>>>>> f8f1c94cda496d83de99624d772dfb9dda09fc6b
